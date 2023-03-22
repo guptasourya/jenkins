@@ -11,6 +11,7 @@
 	<groupId>com.demo</groupId>
 	<artifactId>demo.help</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>jenkins</name>
 	<description>for demo purpose</description>
 	<properties>
